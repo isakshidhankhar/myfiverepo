@@ -1,0 +1,2 @@
+UPI (Unified Payments Interface):
+UPI is a real-time digital payment system that allows users to transfer money instantly between bank accounts using a mobile app. It’s fast, secure, and doesn't require entering card or bank details every time. UPI is widely used for personal transfers, online shopping, and paying bills.
